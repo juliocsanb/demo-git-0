@@ -1,4 +1,5 @@
-## Que pasoooo todos, yo les enseñare git
+## Bienvenido a Git
 
+- Este cambio es de `dev-alex`
 - Hola, Octavio aquí.
-- Nueva línea agregada en el branch feature-branch.
+- Nueva línea agregada en el branch `feature-branch`.
